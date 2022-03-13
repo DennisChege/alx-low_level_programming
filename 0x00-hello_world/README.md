@@ -1,1 +1,1 @@
-Script to save to output
+ script that compiles a C file and creates an executable
