@@ -1,1 +1,1 @@
-Script that compiles a C file but does not link
+Script to save to output
