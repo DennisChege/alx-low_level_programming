@@ -1,1 +1,1 @@
-C program that prints followed by a new line
+Printing using printf
