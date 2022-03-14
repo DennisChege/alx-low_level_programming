@@ -1,1 +1,1 @@
-Printing in lowercase followed by new line
+program that prints all single digit numbers of base 10
