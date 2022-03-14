@@ -1,1 +1,1 @@
-Printing in uppercase and lower case
+Printing in lowercase followed by new line
