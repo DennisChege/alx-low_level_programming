@@ -1,1 +1,1 @@
-function that prints the alphabet, in lowercase
+unction that prints 10 times the alphabet
