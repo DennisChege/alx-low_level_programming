@@ -6,7 +6,7 @@
  *
  * Return: On success 0
  */
-int putchar(char c)
+int _putchar(char c)
 {
-	return (_putchar(c));
+	return (putchar(c));
 }
